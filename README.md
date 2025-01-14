@@ -1,4 +1,4 @@
-# ✅ PROJECT-8
+# ✅ PROJECT-08
 
 In today's business world, data analysis plays a key role in making strategic decisions. To solve a specific business problem, this project proposes the union of two powerful data analysis tools: the SQL language and the R language. These tools will be used together to address an important issue related to expenses with hospitalization of patients. Through the "sqldf" package, we will use the SQL language to carry out an exploratory analysis of the data. Data used in this project were obtained from a national survey of hospital costs conducted by the US Agency for Healthcare. These data consist of hospital records of samples of patients hospitalized in the city of Wisconsin, being restricted to the age group of 0 to 17 years. The first step will be to explore the data using the SQL language, in order to answer ten relevant business questions for the hospital network. These questions will help us understand the variables related to spending on hospital stays and provide valuable insights for decision making.
 
